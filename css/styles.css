@@ -168,11 +168,6 @@ body {
   max-width: 530px;
 }
 
-.hero-title-wrap {
-  max-width: 496px;
-  text-align: center;
-}
-
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
