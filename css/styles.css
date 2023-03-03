@@ -325,5 +325,5 @@ body {
 .portfolio-item {
   max-width: 360px;
   border: 1px solid var(--color-accent);
-  flex-basis: calc(100%/3-var(--card-gap));
+  flex-basis: calc(100%/3 - var(--card-gap));
 }
